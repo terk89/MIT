@@ -1,3 +1,4 @@
+# MIT Computer Science Course Problem Set 1
 # PROBLEM SET 1 Paying the minimum:
 
 """Write a program to calculate the credit card balance after one
